@@ -18,7 +18,7 @@ This project analyzes weather and air quality data from monitoring stations in T
 
 ## 🖼️ Visualizations
 
-![Weather Analysis](weather_analysis_visualizations.png)
+![Weather Analysis](graphic_results.png)
 
 ## 🛠️ Tools & Technologies
 - **Python 3.x**
@@ -28,8 +28,8 @@ This project analyzes weather and air quality data from monitoring stations in T
 - **Google Colab** - Development environment
 
 ## 📁 Repository Contents
-- `weather_analysis.ipynb` - Main analysis notebook
-- `weather_analysis_visualizations.png` - Generated visualizations
+- `dscp_finals.ipynb` - Main analysis notebook
+- `graphic_results.png` - Generated visualizations
 - `README.md` - Project documentation
 
 ## 🚀 How to Run
@@ -41,10 +41,10 @@ This project analyzes weather and air quality data from monitoring stations in T
 The dataset contains hourly weather and air quality measurements from multiple stations in Taiwan, including:
 - Air pollutants: PM2.5, PM10, NO2, CO, SO2
 - Meteorological data: Temperature, Humidity, Rainfall
-- Time period: [Your date range]
+- Time period: [2020]
 
 ## 👤 Author
-[Your Name]  
+Gerald Mahapranaja Pillian
 Data Science and Computational Programming Course  
 December 2025
 
