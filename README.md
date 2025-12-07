@@ -1,4 +1,5 @@
 # Weather Data Analysis: Air Quality Patterns in Taiwan
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gegeisgege/weather-data-analysis/blob/main/weather_analysis.ipynb)
 
 ## 📊 Project Overview
 This project analyzes weather and air quality data from monitoring stations in Taiwan to identify pollution patterns and their relationships with meteorological conditions.
